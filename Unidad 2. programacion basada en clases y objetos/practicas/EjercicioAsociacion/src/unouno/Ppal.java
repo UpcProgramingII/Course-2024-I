@@ -23,6 +23,7 @@ public class Ppal {
         Cliente nuevo = new Cliente("Pepito", "Perez","345");
         cuenta.setTitular(nuevo);
         System.out.println("Cuenta: " + cuenta);
+        
     }
     
 }
